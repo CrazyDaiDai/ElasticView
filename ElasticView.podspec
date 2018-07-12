@@ -89,7 +89,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "弹性动画/弹性动画/ElasticView", "ElasticView/**/*.{h,m,swift}"
+  s.source_files  = "弹性动画/ElasticView", "ElasticView/**/*.{swift,h,m}"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
