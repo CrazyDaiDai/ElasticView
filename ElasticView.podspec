@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "ElasticView"
   s.version      = "0.0.1"
-  s.summary      = "组件弹性的 view + 防止 btn 的重复点击"
+  s.summary      = "第一个组件"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
